@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5b26c988.chunk.css",
+    "main.js": "/static/js/main.33a28663.chunk.js",
+    "main.js.map": "/static/js/main.33a28663.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.305c3200.js",
+    "runtime-main.js.map": "/static/js/runtime-main.305c3200.js.map",
+    "static/css/2.7d3f83c2.chunk.css": "/static/css/2.7d3f83c2.chunk.css",
+    "static/js/2.04dcd0f4.chunk.js": "/static/js/2.04dcd0f4.chunk.js",
+    "static/js/2.04dcd0f4.chunk.js.map": "/static/js/2.04dcd0f4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7d3f83c2.chunk.css.map": "/static/css/2.7d3f83c2.chunk.css.map",
+    "static/css/main.5b26c988.chunk.css.map": "/static/css/main.5b26c988.chunk.css.map",
+    "static/js/2.04dcd0f4.chunk.js.LICENSE.txt": "/static/js/2.04dcd0f4.chunk.js.LICENSE.txt",
+    "static/media/AHAPLogo.c16151a8.png": "/static/media/AHAPLogo.c16151a8.png",
+    "static/media/article.0035655e.png": "/static/media/article.0035655e.png",
+    "static/media/articledblue.8d3d4f33.png": "/static/media/articledblue.8d3d4f33.png",
+    "static/media/articlegreen.b1651a30.png": "/static/media/articlegreen.b1651a30.png",
+    "static/media/articleyellow.c60a76ae.png": "/static/media/articleyellow.c60a76ae.png",
+    "static/media/educating.f7026096.jpg": "/static/media/educating.f7026096.jpg",
+    "static/media/research.2de8f6bb.jpg": "/static/media/research.2de8f6bb.jpg",
+    "static/media/together.0b252962.jpg": "/static/media/together.0b252962.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.305c3200.js",
+    "static/css/2.7d3f83c2.chunk.css",
+    "static/js/2.04dcd0f4.chunk.js",
+    "static/css/main.5b26c988.chunk.css",
+    "static/js/main.33a28663.chunk.js"
+  ]
+}
